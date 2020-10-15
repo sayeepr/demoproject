@@ -4,7 +4,8 @@ class Demo
  {
 
  System.out.println("Aloha!");
-
+ System.out.println("savannah");
+ System.out.printl("Yoohoo");
 
  }
 
